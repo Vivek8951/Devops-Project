@@ -27,4 +27,4 @@ jobs:
         with:
           context: ./ci-cd-pipeline
           push: true
-          tags: vivek8951/ci-cd-pipeline-app:latest
+          tags: viveks895/ci-cd-pipeline-app:latest
